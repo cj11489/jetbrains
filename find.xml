@@ -22,6 +22,7 @@
     <mask>*.scss</mask>
     <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
+    <mask>actions.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
