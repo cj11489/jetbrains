@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,9 +22,9 @@
     <mask>actions.js</mask>
     <mask>*.fixture.json</mask>
     <mask>*dto.js</mask>
-    <mask>*.spec.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
