@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*actions.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,12 +23,12 @@
     <mask>actions.js</mask>
     <mask>*.fixture.json</mask>
     <mask>*Dto.js</mask>
-    <mask>*actions.js</mask>
     <mask>*.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.blade.php</mask>
     <mask>*dto.js</mask>
     <mask>*.vue</mask>
+    <mask>*actions.js</mask>
   </component>
 </application>
