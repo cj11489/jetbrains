@@ -27,10 +27,10 @@
     <mask>*.blade.php</mask>
     <mask>*actions.js</mask>
     <mask>*.twig</mask>
-    <mask>*.spec.js</mask>
     <mask>*dto.js</mask>
     <mask>*.fixture.json</mask>
     <mask>*.svg</mask>
+    <mask>*.spec.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
