@@ -22,7 +22,6 @@
     <mask>*.scss</mask>
     <mask>actions.js</mask>
     <mask>*Dto.js</mask>
-    <mask>*.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.blade.php</mask>
     <mask>*actions.js</mask>
@@ -31,6 +30,7 @@
     <mask>*.fixture.json</mask>
     <mask>*.svg</mask>
     <mask>*.spec.js</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
