@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*dto.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,12 +23,12 @@
     <mask>*.blade.php</mask>
     <mask>*actions.js</mask>
     <mask>*.twig</mask>
-    <mask>*dto.js</mask>
     <mask>*.fixture.json</mask>
     <mask>*.svg</mask>
     <mask>*.spec.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*dto.js</mask>
   </component>
 </application>
