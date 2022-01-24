@@ -26,9 +26,9 @@
     <mask>*.svg</mask>
     <mask>*.spec.js</mask>
     <mask>*dto.js</mask>
-    <mask>*.js</mask>
     <mask>*.stories.js</mask>
     <mask>*actions.js</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
