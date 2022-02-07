@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.js" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,7 +20,6 @@
     <mask>actions.js</mask>
     <mask>*Dto.js</mask>
     <mask>*.blade.php</mask>
-    <mask>*.twig</mask>
     <mask>*.fixture.json</mask>
     <mask>*.svg</mask>
     <mask>*dto.js</mask>
@@ -31,5 +30,6 @@
     <mask>*Dto.spec.js</mask>
     <mask>*.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
