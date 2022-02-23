@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.prop-types.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,7 +15,6 @@
     <mask>*.html</mask>
     <mask>*.coffee</mask>
     <mask>*.gql</mask>
-    <mask>*.prop-types.js</mask>
     <mask>*.scss</mask>
     <mask>actions.js</mask>
     <mask>*Dto.js</mask>
@@ -31,5 +31,6 @@
     <mask>*.spec.js</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.prop-types.js</mask>
   </component>
 </application>
