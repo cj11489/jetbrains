@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -32,9 +32,9 @@
     <mask>*.php</mask>
     <mask>*section.vue</mask>
     <mask>*.spec.js</mask>
-    <mask>*.vue</mask>
     <mask>*.stories.js</mask>
     <mask>*.graphql</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
