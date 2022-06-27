@@ -29,10 +29,10 @@
     <mask>*.php</mask>
     <mask>*section.vue</mask>
     <mask>*.graphql</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
