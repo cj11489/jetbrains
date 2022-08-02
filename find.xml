@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -16,7 +17,6 @@
     <mask>*.scss</mask>
     <mask>actions.js</mask>
     <mask>*Dto.js</mask>
-    <mask>*.blade.php</mask>
     <mask>*.fixture.json</mask>
     <mask>*.svg</mask>
     <mask>*dto.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
