@@ -29,11 +29,11 @@
     <mask>*.json</mask>
     <mask>*.graphql</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>.css</mask>
     <mask>*.blade.php</mask>
     <mask>*.twig</mask>
     <mask>*.spec.js</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.stories.js</mask>
   </component>
