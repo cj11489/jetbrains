@@ -30,9 +30,9 @@
     <mask>.css</mask>
     <mask>*.blade.php</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.spec.js</mask>
     <mask>*.stories.js</mask>
+    <mask>*.twig</mask>
     <mask>*.vue</mask>
   </component>
 </application>
