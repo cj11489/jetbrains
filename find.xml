@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.js" />
+    <option name="FILE_MASK" value="*actions.js" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -21,7 +21,6 @@
     <mask>*dto.js</mask>
     <mask>*Dto.spec.js</mask>
     <mask>*.prop-types.js</mask>
-    <mask>*actions.js</mask>
     <mask>*.</mask>
     <mask>*section.vue</mask>
     <mask>*.json</mask>
@@ -31,8 +30,9 @@
     <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>*.stories.js</mask>
-    <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.spec.js</mask>
+    <mask>*.js</mask>
+    <mask>*actions.js</mask>
   </component>
 </application>
